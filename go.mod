@@ -1,4 +1,4 @@
-module rapid-api
+module github.com/apibrew/rapid-api
 
 go 1.23
 

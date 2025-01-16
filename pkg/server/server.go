@@ -1,12 +1,12 @@
 package server
 
 import (
+	"github.com/apibrew/rapid-api/pkg/data"
 	"github.com/gorilla/mux"
 	"github.com/rs/cors"
 	log "github.com/sirupsen/logrus"
 	"net/http"
 	"net/http/httputil"
-	"rapid-api/pkg/data"
 )
 
 type Server struct {

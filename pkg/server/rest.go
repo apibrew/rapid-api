@@ -2,9 +2,9 @@ package server
 
 import (
 	"encoding/json"
+	"github.com/apibrew/rapid-api/pkg/data"
 	"github.com/gorilla/mux"
 	"net/http"
-	"rapid-api/pkg/data"
 )
 
 func (s *Server) setupRestApi(r *mux.Router) {

@@ -2,9 +2,9 @@ package main
 
 import (
 	"flag"
+	"github.com/apibrew/rapid-api/pkg/data"
+	"github.com/apibrew/rapid-api/pkg/server"
 	log "github.com/sirupsen/logrus"
-	"rapid-api/pkg/data"
-	"rapid-api/pkg/server"
 )
 
 func main() {
