@@ -1,0 +1,7 @@
+{
+  "region": "us-east-1",
+  "access-key-id": "",
+  "secret-access-key": "",
+  "table-name": "apibrew-rapid-api-1",
+  "listenAddr": ":8181"
+}
